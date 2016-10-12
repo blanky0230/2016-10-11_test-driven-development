@@ -2,6 +2,8 @@
 
 This repo is to provide all source code created at the event.
 
+## Slides
+- [TDD - Bring Devlopment to the next Level](http://slides.com/sd_alt/tdd/)
 
 ## Bücher
 
