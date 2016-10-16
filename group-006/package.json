@@ -1,0 +1,9 @@
+{
+  "name": "group-006",
+  "version": "1.0.0",
+  "description": "Unit testing in JavaScript with mocha and chai",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
